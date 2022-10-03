@@ -155,9 +155,3 @@ footer {
     clear: both;
     /*Use this if using float on the main #album li rule*/
 }
-#showinfo {
-    height: 40px;
-    padding-top: 15px;
-    padding-left: 10px;
-    margin-bottom: 15px;
-}
