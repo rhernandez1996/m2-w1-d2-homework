@@ -12,7 +12,7 @@
     $( ".cal3" ).append( "<th>870</th>" );
     $( ".cal4" ).append( "<th>590</th>" );
    
-     $( ".subheadfat" ).append( "<th>Fat</th>" );
+    $( ".subheadfat" ).append( "<th>Fat</th>" );
     $( ".fat1" ).append( "<th>30gm</th>" );
     $( ".fat2" ).append( "<th>40gm</th>" );
     $( ".fat3" ).append( "<th>51gm</th>" );
